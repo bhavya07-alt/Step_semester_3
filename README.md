@@ -1,6 +1,6 @@
 # Step Semester 3
 
-## Date: 07-09-2026
+## Date: 01-09-2026
 
 **Today's Work:**
 - Completed Session 1 Java programming problems.
@@ -29,3 +29,21 @@
 - Faced Git synchronization issues while pushing changes to `feature/session_1`.
 - Resolved the remote/local branch differences using `git pull --rebase`.
 - Ensured that Java source files were committed while compiled `.class` files were not added to Git.
+
+## Date: 07-09-2026
+
+**Today's Work:**
+- Completed Session 2 Java problems.
+- Completed all class problems.
+- Completed all assignment problems.
+- Organized the problems under the `string` package.
+- Used the `class_problems` and `assigment_problems` packages.
+- Committed and pushed all Session 2 work to the `feature/session_2` branch.
+
+**Next Session Plan:**
+- Start Session 3 problems.
+- Create the `feature/session_3` branch from `develop`.
+- Continue following the repository branching and package structure.
+
+**Issues Faced:**
+- No major issues faced during Session 2.
