@@ -41,9 +41,27 @@
 - Committed and pushed all Session 2 work to the `feature/session_2` branch.
 
 **Next Session Plan:**
-- Start Session 3 problems.
+- Start Session 4 problems.
 - Create the `feature/session_3` branch from `develop`.
 - Continue following the repository branching and package structure.
 
 **Issues Faced:**
 - No major issues faced during Session 2.
+
+## Date: 9-09-2026
+
+**Today's Work:**
+- Completed Session 4 Java problems.
+- Completed all class problems.
+- Completed all assignment problems.
+- Organized the problems under the `arrays` package.
+- Used the `class_problems` and `assigment_problems` packages.
+- Committed and pushed all Session 4 work to the `feature/session_4` branch.
+
+**Next Session Plan:**
+- Start the next session problems.
+- Create the next feature branch from `develop`.
+- Continue following the repository branching and package structure.
+
+**Issues Faced:**
+- No major issues faced during Session 4.
