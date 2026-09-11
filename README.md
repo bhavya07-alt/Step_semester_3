@@ -65,3 +65,21 @@
 
 **Issues Faced:**
 - No major issues faced during Session 4.
+
+## Date: 11-09-2026
+
+**Today's Work:**
+- Completed Session 5 Java problems.
+- Completed all class problems.
+- Completed all assignment problems.
+- Organized the problems under the `OOP` package.
+- Used the `class_problems` and `assigment_problems` packages.
+- Committed and pushed all Session 5 work to the `feature/session_5` branch.
+
+**Next Session Plan:**
+- Start Session 6 problems.
+- Create the `feature/session_6` branch from `develop`.
+- Continue following the repository branching and package structure.
+
+**Issues Faced:**
+- No major issues faced during Session 5. 
