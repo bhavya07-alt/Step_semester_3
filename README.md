@@ -125,3 +125,23 @@
 - No major issues faced during Session 7.
 
 
+
+## Date: 1-11-2026
+
+**Today's Work:**
+- Completed Session 8 Java problems.
+- Completed all 5 class problems.
+- Completed all 5 assignment problems.
+- Organized the problems under the `OOP` package.
+- Used the `class_problems` and `assignment_problems` packages.
+- Practiced interfaces, polymorphism, method overriding, billing calculations, and date calculations.
+- Pushed the Session 8 Java solutions to the `feature/session_8` branch.
+
+**Next Session Plan:**
+- Start Session 9 problems.
+- Create the `feature/session_9` branch from `develop`.
+- Continue following the repository branching and package structure.
+
+**Issues Faced:**
+- Checked the delivery fee sample outputs against the given formulas.
+
