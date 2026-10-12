@@ -145,3 +145,24 @@
 **Issues Faced:**
 - Checked the delivery fee sample outputs against the given formulas.
 
+
+
+## Date: 9-10-2026
+
+**Today's Work:**
+- Completed Session 9 Java problems.
+- Completed all 5 class problems.
+- Completed all 5 assignment problems.
+- Organized the solutions under the `OOP` package.
+- Used the `class_problems` and `assignment_problems` packages.
+- Practiced abstraction, inheritance, polymorphism, interfaces, method overriding, and shared fee calculations.
+- Committed and pushed the Session 9 Java solutions to the `feature/session_9` branch.
+
+**Next Session Plan:**
+- Start Session 10 problems.
+- Create the `feature/session_10` branch from `develop`.
+- Continue following the repository branching and package structure.
+
+**Issues Faced:**
+- Resolved a duplicate class name in the travel booking program.
+
