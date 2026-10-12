@@ -105,7 +105,7 @@
 - No major issues faced during Session 6. 
 
 
-## Date: 25-10-2026
+## Date: 25-09-2026
 
 **Today's Work:**
 - Completed Session 7 Java problems.
@@ -126,7 +126,7 @@
 
 
 
-## Date: 1-11-2026
+## Date: 1-10-2026
 
 **Today's Work:**
 - Completed Session 8 Java problems.
